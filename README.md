@@ -6,7 +6,7 @@ To Build a classification model to classify the income of people with the help o
 
 
 ## Web Application 
- https://user-images.githubusercontent.com/97951338/150997129-90f01058-3b8f-4cd0-8ff0-c2a82d58c3f9.png
+ ![Income_predictor](https://user-images.githubusercontent.com/97951338/150997129-90f01058-3b8f-4cd0-8ff0-c2a82d58c3f9.png)
 
 
 ## Dataset
